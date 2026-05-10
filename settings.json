@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "2XR_Duelss",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "NaeChat.aternos.me",
+    "ip": "2xrduel.aternos.me",
     "port": 50000,
     "version": "1.20.1",
     "try-creative": false
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "SoloPlayz"
+      "password": "iamboot"
     },
     "anti-afk": {
       "enabled": true,
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "i love hacking hehe",
+        "ISMAIL0605",
+        "lol"
       ]
     },
     "chat-log": true,
