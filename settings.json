@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "2xrduel.aternos.me",
-    "port": 50000,
+    "port": 13214,
     "version": "1.20.1",
     "try-creative": false
   },
